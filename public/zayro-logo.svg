@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 104" fill="none">
+  <rect x="2" y="5" width="88" height="88" rx="25" fill="#17232D"/>
+  <path d="M26 28h42L26 70h42" stroke="#FFF9F2" stroke-width="9" stroke-linecap="square"/>
+  <path d="M68 28L26 70" stroke="#FF7048" stroke-width="9" stroke-linecap="square"/>
+  <text x="108" y="70" fill="#17232D" font-family="Manrope, Arial, sans-serif" font-size="61" font-weight="800" letter-spacing="1.5">ZAYRO</text>
+  <path d="M394 22v-9h-7v9m3.5-9v9m-7-9h14" stroke="#17232D" stroke-width="1.5"/>
+</svg>
